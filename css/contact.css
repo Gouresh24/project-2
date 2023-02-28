@@ -1,0 +1,54 @@
+h3.header-nav {
+   font-family: cursive;
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+    color: rgb(0 0 0);
+    text-transform: uppercase;
+}
+.contact-top-banner {
+ background-image: url(/home/gouresh/Downloads/lesson Plans/project_2/images/minimalist-salad.png);
+    background-repeat: no-repeat;
+    background-position: center;
+	background-size: cover;
+	padding:100px;
+}
+h2.banner-title {
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+    color: rgb(255 255 255);
+    text-transform: uppercase;
+}
+section.w3-container {
+    padding: 40px 0;
+}
+h2.w3-title {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(255 255 255);
+	font-family: cursive;
+}
+.contact-block {
+    text-align: center;
+    padding: 50px;
+    border: 1px solid rgb(0,0,0);
+    margin: 20px 100px;
+    border-radius: 50px;
+}
+p.contact-desc {
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive;
+}
+/*=================footer================*/
+footer {
+    padding: 40px 0;
+    background: #000;
+    color: rgb(255 255 255);
+}
+footer p {
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+}
