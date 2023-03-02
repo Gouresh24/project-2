@@ -1,0 +1,53 @@
+
+/*===============Home page========================== */
+body {
+	font-family: cursive;
+}
+section.top-banner {
+    background-image: url(C:/Users/divya/OneDrive/Desktop/project_3/images/banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+	background-size: cover;
+	padding:100px;
+}
+img#home-pg-img {
+	display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+	border: 1px solid rgb(195 195 193);;
+    padding: 20px;
+    border-radius: 10px;
+}
+section.w3-food {
+    width: 100%;
+    display: inline-block;
+}
+article.w3-third {
+    width: 29%;
+    float: left;
+	margin: 1%;
+    padding: 1%;
+}
+article.w3-third p {
+    text-align: center;
+    background-color: #8080801a;
+    padding: 20px;
+	margin: 0;
+	font-family: cursive;
+	border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+img#article-img {
+	width: 100%;
+    height: 300px;
+    object-fit: cover;
+	cursor: pointer;
+}
+/*=================footer================*/
+footer {
+    padding: 40px 0;
+    background: rgb(0 0 0);
+    color: rgb(255 255 255);
+}
+

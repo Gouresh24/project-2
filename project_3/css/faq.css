@@ -1,0 +1,16 @@
+body {
+    font-family: cursive;
+}
+.faq-top-banner {
+ background-image: url(C:/Users/divya/OneDrive/Desktop/project_3/images/minimalist-salad.png);
+    background-repeat: no-repeat;
+    background-position: center;
+	background-size: cover;
+	padding:100px;
+}
+/*=================footer================*/
+footer {
+    padding: 40px 0;
+    background: #000;
+    color: rgb(255 255 255);
+}
