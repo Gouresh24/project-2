@@ -4,7 +4,7 @@ body {
 	font-family: cursive;
 }
 section.top-banner {
-    background-image: url(C:/Users/divya/OneDrive/Desktop/project_3/images/banner.png);
+    background-image: url(project_3/images/banner.png);
     background-repeat: no-repeat;
     background-position: center;
 	background-size: cover;
